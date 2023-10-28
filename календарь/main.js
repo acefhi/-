@@ -1,4 +1,4 @@
-const promobox = document.querySelectorAll('.promo-box')
+const promoBox = document.querySelectorAll('.promo-box')
 
 function datafunc () {
     const currentDate = new Date ()
